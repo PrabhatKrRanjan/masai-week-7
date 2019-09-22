@@ -2,10 +2,25 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
+.logo {
+  height: 50px;
+  width: 190px;
+  margin-bottom: 10px;
 }
 
+.fontSize {
+  font-size: 12px;
+}
+
+.imgHight {
+  height: 700px;
+}
+
+.imgSize {
+  margin-top: 20px;
+  height: 700px;
+  width: 100%;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

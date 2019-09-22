@@ -1,5 +1,24 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Week 7 Project
+## Prabhat Kumar Ranjan
+## Microsoft static Front page using React
+## Microsoft Corporation is an American multinational technology company. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.
+ ## url for images of project 
+ 1) [https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2Ogje?ver=bdc6&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true]
+ 2) [https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWfbJT?ver=8259&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true]
+ 3) [https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE37bh1?ver=33cd&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true]
+ 4) [https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1uWfh?ver=0868&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true]
+ 5) [https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1CmIw?ver=e555&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true]
+ 6) [https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2mheW?ver=527a&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&x=444&y=171&aim=true]
+ 7) [https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3sKm8?ver=08d4&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true]
+ 8) [https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2OfW4?ver=3149&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true]
+ 9) [https://inteng-storage.s3.amazonaws.com/images/APRIL/sizes/Microsoft_logo_44_resize_md.jpg]
+ 10) [http://getwallpapers.com/wallpaper/full/3/1/a/658215.jpg]
+ 11) [http://getwallpapers.com/wallpaper/full/0/9/b/658412.jpg]
+ 12) [http://getwallpapers.com/wallpaper/full/f/0/7/658770.jpg]
+
+
 ## Available Scripts
 
 In the project directory, you can run:
